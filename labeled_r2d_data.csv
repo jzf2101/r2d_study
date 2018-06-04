@@ -1,0 +1,11 @@
+labeled_url,Dockerfile,binder,apt.txt,environment.yml,requirements.txt,postBuild,setup.py
+https://github.com/tdhock/mmit-paper,False,False,False,False,False,False,False
+https://github.com/mufarhan/sequence_class_NIPS_2017,False,False,False,False,False,False,False
+https://github.com/sordonia/zforcing,False,False,False,False,False,False,False
+https://github.com/jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS,False,False,False,False,False,False,False
+https://github.com/flatironinstitute/CaImAn,True,False,False,True,False,False,True
+https://github.com/mstaib/stochastic-barycenter-code/,False,False,False,False,False,False,False
+https://github.com/jcoreyes/ex2,False,False,False,False,False,False,False
+https://github.com/eracah/hur-detect,False,False,False,False,False,False,False
+https://github.com/brain-life/encode,False,False,False,False,False,False,False
+https://github.com/openai/multiagent-particle-envs,False,False,False,False,False,False,True
