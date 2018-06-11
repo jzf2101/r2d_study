@@ -1,4 +1,4 @@
-code_url,Dockerfile,binder,apt.txt,environment.yml,requirements.txt,postBuild,setup.py,REQUIRE,runtime.txt,install.R
+,Dockerfile,binder,apt.txt,environment.yml,requirements.txt,postBuild,setup.py,REQUIRE,runtime.txt,install.R
 https://github.com/ksenia-konyushkova/LAL,False,False,False,False,False,False,False,False,False,False
 https://github.com/facebookresearch/GradientEpisodicMemory,False,False,False,False,True,False,False,False,False,False
 https://github.com/rflamary/JDOT,False,False,False,False,False,False,False,False,False,False
@@ -188,3 +188,15 @@ https://github.com/aosokin/consistentSurrogates_derivations,False,False,False,Fa
 https://github.com/linnylin92/fused_lasso,False,False,False,False,False,False,False,False,False,False
 https://github.com/apanahi/NIPS_Paper_1937,False,False,False,False,False,False,False,False,False,False
 https://github.com/fanny-yang/OnlineFDRCode,False,False,False,False,False,False,False,False,False,False
+https://github.com/tdhock/mmit-paper,False,False,False,False,False,False,False,False,False,False
+https://github.com/mufarhan/sequence_class_NIPS_2017,False,False,False,False,False,False,False,False,False,False
+https://github.com/sordonia/zforcing,False,False,False,False,False,False,False,False,False,False
+https://github.com/jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS,False,False,False,False,False,False,False,False,False,False
+https://github.com/flatironinstitute/CaImAn,True,False,False,True,False,False,True,False,False,False
+https://github.com/mstaib/stochastic-barycenter-code/,False,False,False,False,False,False,False,False,False,False
+https://github.com/jcoreyes/ex2,False,False,False,False,False,False,False,False,False,False
+https://github.com/eracah/hur-detect,False,False,False,False,False,False,False,False,False,False
+https://github.com/brain-life/encode,False,False,False,False,False,False,False,False,False,False
+https://github.com/openai/multiagent-particle-envs,False,False,False,False,False,False,True,False,False,False
+https://github.com/wuga214/PAPER_NIPS17_ScalablePlanning_Tensorflow,False,False,False,False,False,False,False,False,False,False
+https://github.com/ermongroup/a-nice-mc,False,False,False,False,True,False,True,False,False,False
