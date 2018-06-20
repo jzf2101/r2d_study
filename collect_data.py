@@ -9,20 +9,20 @@ from contextlib import suppress
 from scipy.stats import ttest_ind
 
 def get_url(table_no, title):
+    '''
+    gets relevant urls from nips 2017 schedule
+    '''
     table_section = table_no.find('a', {'title':title})
     if table_section is not None:
         return table_section['href']
     
 def test_url(page_name):
+    '''
+    pings url of code to see if it woks
+    '''
     with suppress(Exception):
         return requests.get(page_name).status_code == requests.codes.ok
     
-def test_gh_checker():
-    jlab_demo = request_inspect_for_r2d('https://github.com/jupyterlab/jupyterlab-demo')
-    assert sum(jlab_demo.values) == 1
-    assert jlab_demo['binder']
-    latex_binder = request_inspect_for_r2d('https://github.com/jupyterlab/jupyterlab-demo')
-
 gql_query = '{\
       repository(owner: "%s", name: "%s") {\
     description\
@@ -53,6 +53,9 @@ gql_query = '{\
 
     
 def graphql_social_data(org, repo, api_token, query=gql_query):
+    '''
+    collects github metadata based on query gql_query
+    '''
     url = 'https://api.github.com/graphql'
     headers = {'Authorization': 'token %s' % api_token}
     r = requests.post(url=url, data=json.dumps({'query': query.replace("\r\n", "\\n") % (org, repo)}), headers=headers)
@@ -60,6 +63,9 @@ def graphql_social_data(org, repo, api_token, query=gql_query):
     return data
 
 def request_inspect_for_r2d(repo_url, repo_soup, file_types):
+    '''
+    inspects github webpage for listed configuration files in repo
+    '''
     repo_name = repo_url[len('https://github.com'):].rstrip('/')
     result_dict = {}
     for t in file_types:
@@ -75,6 +81,9 @@ def request_inspect_for_r2d(repo_url, repo_soup, file_types):
     return result_dict
 
 def process_gh_api_df(df):
+    '''
+    processes github api data in dataframe and converts to more neat format for pandas
+    '''
     df['description'].fillna('', inplace=True)
     df.loc[:,'n_languages'] = [len(c['nodes']) for c in df['languages']]
     df['no_code'] = df['n_languages'] == 0
