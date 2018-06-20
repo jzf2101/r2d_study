@@ -21,7 +21,7 @@ jupyter lab
 
 The majority of analysis occurs in `get_data.ipynb`.  Helper functions used in the notebook are in `collect_data.py`.  
 
-Note: that since we use GitHub's graphql API to collect GitHub metadata, one would need to create a personal access token and replace it in the appropriate code block to recollect all the data.  The relevant collected files are included anyway as csv as described in the notebook for simplicity and exceptions are written to skip data collection if necessary.
+Note: that since we use GitHub's graphql API to collect GitHub metadata, one would need to create a [personal access token](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/) and replace it in the appropriate code block to recollect all the data.  The relevant collected files are included anyway as csv as described in the notebook for simplicity and exceptions are written to skip data collection if necessary.
 
 ### Datasets
 
