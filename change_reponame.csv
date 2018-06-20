@@ -1,3 +1,3 @@
-,title,authors,paper_url,code_url,poster_url,github,live,gh_full_path,.git
-201,Scalable Planning with Tensorflow for Hybrid Nonlinear Domains,Ga Wu · Buser Say · Scott Sanner,http://papers.nips.cc/paper/by-source-2017-3164,https://github.com/wuga214/TOOLBOX-Learning-and-Planning-through-Backpropagation,https://github.com/wuga214/TOOLBOX-Learning-and-Planning-through-Backpropagation/blob/master/POSTER.pdf,True,True,True,False
-413,A-NICE-MC: Adversarial Training for MCMC,Jiaming Song · Shengjia Zhao · Stefano Ermon,http://papers.nips.cc/paper/by-source-2017-2661,https://github.com/jiamings/a-nice-mc,,True,True,True,False
+,title,authors,paper_url,code_url,poster_url,github,live,gh_full_path
+201,Scalable Planning with Tensorflow for Hybrid Nonlinear Domains,Ga Wu · Buser Say · Scott Sanner,http://papers.nips.cc/paper/by-source-2017-3164,https://github.com/wuga214/TOOLBOX-Learning-and-Planning-through-Backpropagation,https://github.com/wuga214/TOOLBOX-Learning-and-Planning-through-Backpropagation/blob/master/POSTER.pdf,True,True,True
+413,A-NICE-MC: Adversarial Training for MCMC,Jiaming Song · Shengjia Zhao · Stefano Ermon,http://papers.nips.cc/paper/by-source-2017-2661,https://github.com/jiamings/a-nice-mc,,True,True,True

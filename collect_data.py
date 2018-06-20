@@ -6,7 +6,7 @@ import pdb
 import yaml
 import json
 from contextlib import suppress
-
+from scipy.stats import ttest_ind
 
 def get_url(table_no, title):
     table_section = table_no.find('a', {'title':title})
@@ -75,6 +75,7 @@ def request_inspect_for_r2d(repo_url, repo_soup, file_types):
     return result_dict
 
 def process_gh_api_df(df):
+    df['description'].fillna('', inplace=True)
     df.loc[:,'n_languages'] = [len(c['nodes']) for c in df['languages']]
     df['no_code'] = df['n_languages'] == 0
     for col in df.columns:
@@ -89,6 +90,7 @@ def process_gh_api_df(df):
     df['Julia'] = ['Julia' in x for x in df['languages']]
     df['R'] = ['R' in x for x in df['languages']]
     return df
+    
     
     
         

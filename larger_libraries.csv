@@ -1,4 +1,4 @@
 ,description,stargazers,watchers,forks,languages,repositoryTopics,n_languages,no_code,primary_language,Python,Julia,R,r2d_capable,larger_library
-https://github.com/neulab/dynet-benchmark/tree/autobatch,Benchmarks for DyNet,53,14,12,"['Python', 'C++', 'Shell', 'Makefile']",[],4,False,Python,True,False,False,False,True
-https://github.com/tensorflow/models/tree/master/research/pcl_rl,Models and examples built with TensorFlow,36531,2400,19633,"['Python', 'Jupyter Notebook', 'C++', 'HTML', 'Shell', 'JavaScript', 'Makefile', 'GLSL']",[],8,False,Python,True,False,False,False,True
-https://github.com/tensorflow/models/tree/master/research/rebar,Models and examples built with TensorFlow,36531,2400,19633,"['Python', 'Jupyter Notebook', 'C++', 'HTML', 'Shell', 'JavaScript', 'Makefile', 'GLSL']",[],8,False,Python,True,False,False,False,True
+https://github.com/neulab/dynet-benchmark/tree/autobatch,Benchmarks for DyNet,52,14,12,"['Python', 'C++', 'Shell', 'Makefile']",[],4,False,Python,True,False,False,False,True
+https://github.com/tensorflow/models/tree/master/research/pcl_rl,Models and examples built with TensorFlow,37062,2420,19989,"['Python', 'Jupyter Notebook', 'C++', 'HTML', 'Shell', 'JavaScript', 'Makefile', 'GLSL']",[],8,False,Python,True,False,False,False,True
+https://github.com/tensorflow/models/tree/master/research/rebar,Models and examples built with TensorFlow,37062,2420,19989,"['Python', 'Jupyter Notebook', 'C++', 'HTML', 'Shell', 'JavaScript', 'Makefile', 'GLSL']",[],8,False,Python,True,False,False,False,True
