@@ -1,0 +1,13 @@
+name: r2d-study
+channels:
+    - conda-forge
+dependencies:
+  - python=3.6
+  - beautifulsoup
+  - numpy
+  - requests
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - jupyterlab
