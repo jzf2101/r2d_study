@@ -12,6 +12,5 @@ dependencies:
   - seaborn
   - jupyterlab
   - yaml
-  - pdb
   - re
   - contextlib
