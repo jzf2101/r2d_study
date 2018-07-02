@@ -27,7 +27,7 @@ https://github.com/LCSL/FALKON_paper,False,False,False,False,False,False,False,F
 https://github.com/cnmusco/recursive-nystrom,False,False,False,False,False,False,False,False,False,False
 https://github.com/hcllaw/phase_learn,False,False,False,False,False,False,False,False,False,False
 https://github.com/HMEIatJHU/neurawkes,False,False,False,False,False,False,False,False,False,False
-https://github.com/williamleif/GraphSAGE,True,False,False,False,False,False,False,False,False,False
+https://github.com/williamleif/GraphSAGE,True,False,False,False,True,False,False,False,False,False
 https://github.com/layer6ai-labs/DropoutNet,False,False,False,False,False,False,False,False,False,False
 https://github.com/gingsmith/fmtl,False,False,False,False,False,False,False,False,False,False
 https://github.com/atomistic-machine-learning/SchNet,False,False,False,False,False,False,True,False,False,False
@@ -66,7 +66,6 @@ https://github.com/ermongroup/infogail,False,False,False,False,False,False,False
 https://github.com/Maluuba/hra,False,False,False,False,False,False,False,False,False,False
 https://github.com/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL,False,False,False,False,False,False,False,False,False,False
 https://github.com/shaneshixiang/rllabplusplus,False,False,False,True,False,False,True,False,False,False
-https://github.com/wuga214/TOOLBOX-Learning-and-Planning-through-Backpropagation,False,False,False,False,False,False,False,False,False,False
 https://github.com/locuslab/e2e-model-learning,False,False,False,False,False,False,False,False,False,False
 https://github.com/junhyukoh/value-prediction-network,False,False,False,False,False,False,False,False,False,False
 https://github.com/soumendu041/clustering-network-valued-data,False,False,False,False,False,False,False,False,False,False
@@ -116,7 +115,6 @@ https://github.com/arunsais/Expxorcist.git,False,False,False,False,False,False,F
 https://github.com/andymiller/ReducedVarianceReparamGradients,False,False,False,False,False,False,False,False,False,False
 https://github.com/probcomp/nips2017-aide-experiments,False,False,False,False,False,False,False,False,False,False
 https://github.com/michaelhabeck/paths,False,False,False,False,False,False,True,False,False,False
-https://github.com/jiamings/a-nice-mc,False,False,False,False,False,False,False,False,False,False
 https://github.com/thangbui/streaming_sparse_gp,False,False,False,False,False,False,False,False,False,False
 https://github.com/wujian16/Cornell-MOE,True,False,False,False,True,False,True,False,False,False
 https://github.com/SheffieldML/GPy,False,False,False,False,False,False,False,False,False,False
