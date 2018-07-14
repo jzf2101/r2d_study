@@ -36,9 +36,13 @@ Note: that since we use GitHub's graphql API to collect GitHub metadata, one wou
 
 ### NIPS 2017 Datasets
 
+Data scraped from the NIPS 2017 schedule is reformatted in a csv in `all_papers.csv`.
+
 The dataset with all GitHub repo data with metadata is `gh_metadata_w_labeled.csv`, indicating that this dataset includes URLs to GitHub research repos that were found through manual inspection.
 
 The dataset with all config file information is `r2d_w_labeled.csv`.  Similarly, some URLs were found through manual inspection.
+
+Interim datasets concatenated to make `gh_metadata_w_labeled.csv` are called `gh_metadata.csv` and `gh_labeled.csv`. Interim datasets concatenated to make `gh_r2d_data.csv` and `r2d_labeled.csv`.  Datasets with the `_labeled` suffix signify that the URL for the repo was found through manual inpsection.  
 
 Two types of papers required manual inspection: papers that changed their GitHub repo name, or papers that had errors in their URL.  Papers that had errors in their URL are listed with their labeled URLs in `validate_url_w_labels.csv`. Papers that changed their reponame with their new repo are in `change_reponame_labeled.csv`.
 
