@@ -1,185 +1,188 @@
 code_url,description,stargazers,watchers,forks,languages,repositoryTopics,n_languages,no_code,primary_language,Python,Julia,R
-https://github.com/ksenia-konyushkova/LAL,"This project contains code for paper Ksenia Konyushkova, Raphael Sznitman, Pascal Fua 'Learning Active Learning from Data', NIPS 2017",19,5,7,"['Jupyter Notebook', 'Python']",[],2,False,Jupyter Notebook,True,False,False
-https://github.com/facebookresearch/GradientEpisodicMemory,Continuum Learning with GEM:  Gradient Episodic Memory,114,7,16,"['Python', 'Shell']",[],2,False,Python,True,False,False
-https://github.com/rflamary/JDOT,Joint distribution optimal transportation for domain adaptation,19,3,10,['Python'],[],1,False,Python,True,False,False
-https://github.com/thuml/Xlearn,Transfer Learning Library,100,6,57,"['Jupyter Notebook', 'C++', 'Python', 'Cuda', 'CMake', 'Matlab', 'Shell', 'Makefile', 'CSS', 'HTML']","['deep-learning', 'transfer-learning']",10,False,Jupyter Notebook,True,False,False
-https://github.com/CBMM/eccentricity,implementation of eccentricity-dependent model for object recognition,8,6,5,"['Jupyter Notebook', 'Python', 'Shell']",[],3,False,Jupyter Notebook,True,False,False
-https://github.com/sjoerdvansteenkiste/Neural-EM,"Code for the ""Neural Expectation Maximization"" paper.",37,4,11,['Python'],[],1,False,Python,True,False,False
-https://github.com/charlesq34/pointnet2,PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space,436,43,151,"['Python', 'C++', 'Cuda', 'Shell']","['point-cloud', 'deep-learning', 'classification', 'segmentation', '3d-shape']",4,False,Python,True,False,False
+https://github.com/ksenia-konyushkova/LAL,"This project contains code for paper Ksenia Konyushkova, Raphael Sznitman, Pascal Fua 'Learning Active Learning from Data', NIPS 2017",25,7,8,"['Jupyter Notebook', 'Python']",[],2,False,Jupyter Notebook,True,False,False
+https://github.com/facebookresearch/GradientEpisodicMemory,Continuum Learning with GEM:  Gradient Episodic Memory,121,8,18,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/rflamary/JDOT,Joint distribution optimal transportation for domain adaptation,21,3,11,['Python'],[],1,False,Python,True,False,False
+https://github.com/thuml/Xlearn,Transfer Learning Library,131,9,69,"['Jupyter Notebook', 'C++', 'Python', 'Cuda', 'CMake', 'Matlab', 'Shell', 'Makefile', 'CSS', 'HTML']","['deep-learning', 'transfer-learning']",10,False,Jupyter Notebook,True,False,False
+https://github.com/CBMM/eccentricity,implementation of eccentricity-dependent model for object recognition,9,6,6,"['Jupyter Notebook', 'Python', 'Shell']",[],3,False,Jupyter Notebook,True,False,False
+https://github.com/sjoerdvansteenkiste/Neural-EM,"Code for the ""Neural Expectation Maximization"" paper.",40,5,13,['Python'],[],1,False,Python,True,False,False
+https://github.com/charlesq34/pointnet2,PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space,567,45,183,"['Python', 'C++', 'Cuda', 'Shell']","['point-cloud', 'deep-learning', 'classification', 'segmentation', '3d-shape']",4,False,Python,True,False,False
 https://github.com/vermaMachineLearning/FGSD,Graph Feature Representation/Vector Based On The Family Of Graph Spectral Distances (NIPS 2017).,10,1,1,['Python'],[],1,False,Python,True,False,False
-https://github.com/panji1990/Deep-subspace-clustering-networks,,39,11,31,['Python'],[],1,False,Python,True,False,False
-https://github.com/blei-lab/context-selection-embedding,Context Selection for Embedding Models,14,22,8,['Python'],[],1,False,Python,True,False,False
+https://github.com/panji1990/Deep-subspace-clustering-networks,,51,12,32,['Python'],[],1,False,Python,True,False,False
+https://github.com/blei-lab/context-selection-embedding,Context Selection for Embedding Models,18,22,9,['Python'],[],1,False,Python,True,False,False
 https://github.com/bikash617/Aggressive-Sampling-for-Multi-class-to-BinaryReduction,,0,1,0,['Python'],[],1,False,Python,True,False,False
 https://github.com/rizalzaf/adversarial-ordinal,Adversarial Surrogate Losses for Ordinal Regression,2,1,1,['Julia'],[],1,False,Julia,False,True,False
-https://github.com/max-andr/cross-lipschitz,"Code for the paper: ""Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation""",9,1,2,['Python'],[],1,False,Python,True,False,False
-https://github.com/svenpeter42/LightGBM-CEGB,Fork of Microsoft/LightGBM to include support for the CEGB (Cost Efficient Gradient Boosting) algorithm. Original repository at https://github.com/Microsoft/LightGBM,7,3,1,"['C++', 'Python', 'R', 'C', 'CMake', 'Shell', 'Batchfile']",[],7,False,C++,True,False,True
-https://github.com/Microsoft/LightGBM,"A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of Microsoft.",5903,383,1581,"['C++', 'Python', 'R', 'C', 'CMake', 'Shell']","['gbdt', 'gbm', 'machine-learning', 'data-mining', 'distributed', 'lightgbm', 'gbrt', 'microsoft', 'decision-trees', 'gradient-boosting']",6,False,C++,True,False,True
+https://github.com/max-andr/cross-lipschitz,"Code for the paper: ""Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation""",8,1,2,['Python'],[],1,False,Python,True,False,False
+https://github.com/svenpeter42/LightGBM-CEGB,Fork of Microsoft/LightGBM to include support for the CEGB (Cost Efficient Gradient Boosting) algorithm. Original repository at https://github.com/Microsoft/LightGBM,8,3,1,"['C++', 'Python', 'R', 'C', 'CMake', 'Shell', 'Batchfile']",[],7,False,C++,True,False,True
+https://github.com/Microsoft/LightGBM,"A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of Microsoft.",6430,389,1740,"['C++', 'Python', 'R', 'C', 'Shell', 'CMake']","['gbdt', 'gbm', 'machine-learning', 'data-mining', 'distributed', 'lightgbm', 'gbrt', 'microsoft', 'decision-trees', 'gradient-boosting']",6,False,C++,True,False,True
 https://github.com/eaplatanios/makina,Machine Learning Library by Emmanouil Antonios Platanios,10,18,2,"['Java', 'Scala', 'Python', 'CSS', 'Protocol Buffer']",[],5,False,Java,True,False,False
-https://github.com/toantm/keras-bda,A Bayesian Data Augmentation Approach for Learning Deep Models in Keras,14,5,7,['Python'],[],1,False,Python,True,False,False
-https://github.com/c-hofer/nips2017,The code related to my nips puplication: Deep Learning with Topological Signatures,7,0,7,['Python'],[],1,False,Python,True,False,False
-https://github.com/zera/Nips_MT,Part of the code for the paper Practical Hash Functions for Similarity Estimation and Dimensionality Reduction at NIPS'17,5,3,1,"['C++', 'C', 'Python', 'Makefile']",[],4,False,C++,True,False,False
+https://github.com/toantm/keras-bda,A Bayesian Data Augmentation Approach for Learning Deep Models in Keras,17,5,8,['Python'],[],1,False,Python,True,False,False
+https://github.com/c-hofer/nips2017,The code related to my nips puplication: Deep Learning with Topological Signatures,14,0,7,['Python'],[],1,False,Python,True,False,False
+https://github.com/zera/Nips_MT,Part of the code for the paper Practical Hash Functions for Similarity Estimation and Dimensionality Reduction at NIPS'17,6,3,1,"['C++', 'C', 'Python', 'Makefile']",[],4,False,C++,True,False,False
 https://github.com/moonfolk/MiFM,,3,0,0,['Python'],[],1,False,Python,True,False,False
-https://github.com/cmdowney/psrnn,Predictive State Recurrent Neural Networks,8,3,3,['Python'],[],1,False,Python,True,False,False
+https://github.com/cmdowney/psrnn,Predictive State Recurrent Neural Networks,11,3,3,['Python'],[],1,False,Python,True,False,False
 https://github.com/nohyung/Nadaraya-Watson-Regression-Metric,,1,1,1,['Matlab'],[],1,False,Matlab,False,False,False
 https://github.com/GauriJagatap/model-copram,Code for phase retrieval of signals with underlying structured sparsity.,2,1,2,['Matlab'],[],1,False,Matlab,False,False,False
-https://github.com/ricedsp/D-AMP_Toolbox,"This package contains the code to run Learned D-AMP, D-AMP, D-VAMP, D-prGAMP, and DnCNN algorithms. It also includes code to train Learned D-AMP, DnCNN, and Deep Image Prior U-net using the SURE loss.",34,4,17,"['Matlab', 'Python', 'C', 'HTML', 'CMake', 'Shell']",[],6,False,Matlab,True,False,False
-https://github.com/LCSL/FALKON_paper,"FALKON implementation used in the experimental section of ""FALKON: An Optimal Large Scale Kernel Method""",15,4,0,"['Matlab', 'C++', 'M']",[],3,False,Matlab,False,False,False
+https://github.com/ricedsp/D-AMP_Toolbox,"This package contains the code to run Learned D-AMP, D-AMP, D-VAMP, D-prGAMP, and DnCNN algorithms. It also includes code to train Learned D-AMP, DnCNN, and Deep Image Prior U-net using the SURE loss.",38,6,20,"['Matlab', 'Python', 'C', 'HTML', 'CMake', 'Shell', 'Dockerfile']",[],7,False,Matlab,True,False,False
+https://github.com/LCSL/FALKON_paper,"FALKON implementation used in the experimental section of ""FALKON: An Optimal Large Scale Kernel Method""",16,5,2,"['Matlab', 'C++', 'M']",[],3,False,Matlab,False,False,False
 https://github.com/cnmusco/recursive-nystrom,Recursive importance sampling for Nyström kernel matrix approximation,5,2,3,['Matlab'],[],1,False,Matlab,False,False,False
+http://github.com/mufarhan/sequence_class_NIPS_2017,,0,0,0,['Java'],[],1,False,Java,False,False,False
 https://github.com/hcllaw/phase_learn,,5,2,2,"['Jupyter Notebook', 'Python']",[],2,False,Jupyter Notebook,True,False,False
-https://github.com/HMEIatJHU/neurawkes,Source code of The Neural Hawkes Process,39,2,17,"['Python', 'Shell']",[],2,False,Python,True,False,False
-https://github.com/williamleif/GraphSAGE,Representation learning on large graphs using stochastic graph convolutions.,278,28,102,"['Python', 'Shell']",[],2,False,Python,True,False,False
-https://github.com/layer6ai-labs/DropoutNet,Python + TensorFlow implementation of the DropoutNet model,7,5,0,['Python'],[],1,False,Python,True,False,False
-https://github.com/gingsmith/fmtl,Federated Multi-Task Learning,10,2,4,['Matlab'],[],1,False,Matlab,False,False,False
-https://github.com/atomistic-machine-learning/SchNet,SchNet - a deep learning architecture for quantum chemistry,26,9,11,['Python'],[],1,False,Python,True,False,False
-https://github.com/Yijunmaverick/UniversalStyleTransfer,The source code of NIPS17 'Universal Style Transfer via Feature Transforms'.,279,18,35,['Lua'],[],1,False,Lua,False,False,False
-https://github.com/QData/AttentiveChrome,NIPS17: [AttentiveChrome] Attend and Predict: Using Deep Attention Model to Understand Gene Regulation by Selective Attention on Chromatin,9,3,3,['Lua'],"['deep-learning', 'epigenetic-data', 'deep-neural-network', 'interpretable-deep-learning']",1,False,Lua,False,False,False
+https://github.com/HMEIatJHU/neurawkes,Source code of The Neural Hawkes Process,43,4,19,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/williamleif/GraphSAGE,Representation learning on large graphs using stochastic graph convolutions.,366,31,126,"['Python', 'Shell', 'Dockerfile']",[],3,False,Python,True,False,False
+https://github.com/layer6ai-labs/DropoutNet,Python + TensorFlow implementation of the DropoutNet model,13,7,2,['Python'],[],1,False,Python,True,False,False
+https://github.com/gingsmith/fmtl,Federated Multi-Task Learning,11,2,5,['Matlab'],[],1,False,Matlab,False,False,False
+https://github.com/atomistic-machine-learning/SchNet,SchNet - a deep learning architecture for quantum chemistry,36,10,16,['Python'],[],1,False,Python,True,False,False
+https://github.com/Yijunmaverick/UniversalStyleTransfer,The source code of NIPS17 'Universal Style Transfer via Feature Transforms'.,307,19,47,['Lua'],[],1,False,Lua,False,False,False
+https://github.com/QData/AttentiveChrome,NIPS17: [AttentiveChrome] Attend and Predict: Using Deep Attention Model to Understand Gene Regulation by Selective Attention on Chromatin,10,3,3,['Lua'],"['deep-learning', 'epigenetic-data', 'deep-neural-network', 'interpretable-deep-learning']",1,False,Lua,False,False,False
 https://github.com/boknilev/asr-repr-analysis,,6,1,2,['Lua'],[],1,False,Lua,False,False,False
-https://github.com/jiasenlu/visDial.pytorch,visual dialog model in pytorch,72,5,25,['Python'],[],1,False,Python,True,False,False
-https://github.com/idansc/HighOrderAtten,,8,2,2,"['Lua', 'Python']",[],2,False,Lua,True,False,False
-https://github.com/akar43/lsm,Code for Learnt Stereo Machines based on the NIPS 2017 paper,97,5,23,"['Python', 'Jupyter Notebook', 'JavaScript', 'Shell']","['deep-learning', '3d-reconstruction', 'machine-learning']",4,False,Python,True,False,False
-https://github.com/DagnyT/hardnet,"Hardnet descriptor model - ""Working hard to know your neighbor's margins:  Local descriptor learning loss""",79,8,23,"['Python', 'Shell']","['deep-learning', 'convolutional-neural-networks', 'computer-vision', 'metric-learning', 'image-matching', 'image-retrieval', 'pytorch', 'nips-2017']",2,False,Python,True,False,False
-https://github.com/junyanz/BiCycleGAN,[NIPS 2017] Toward Multimodal Image-to-Image Translation,614,27,97,"['Python', 'Shell', 'TeX']","['pytorch', 'pix2pix', 'gans', 'generative-adversarial-network', 'deep-learning']",3,False,Python,True,False,False
-https://github.com/liqi-casia/DSDH-HashingCode,,11,1,4,"['Matlab', 'M']",[],2,False,Matlab,False,False,False
-https://github.com/dsv77/hashembedding/,"Hash Embedding code for the paper ""Hash Embeddings for Efficient Word Representations""",19,1,9,['Python'],[],1,False,Python,True,False,False
+https://github.com/jiasenlu/visDial.pytorch,visual dialog model in pytorch,80,5,27,['Python'],[],1,False,Python,True,False,False
+https://github.com/idansc/HighOrderAtten,,9,2,2,"['Lua', 'Python']",[],2,False,Lua,True,False,False
+https://github.com/akar43/lsm,Code for Learnt Stereo Machines based on the NIPS 2017 paper,107,8,28,"['Python', 'Jupyter Notebook', 'JavaScript', 'Shell']","['deep-learning', '3d-reconstruction', 'machine-learning']",4,False,Python,True,False,False
+https://github.com/DagnyT/hardnet,"Hardnet descriptor model - ""Working hard to know your neighbor's margins:  Local descriptor learning loss""",86,9,24,"['Python', 'Shell']","['deep-learning', 'convolutional-neural-networks', 'computer-vision', 'metric-learning', 'image-matching', 'image-retrieval', 'pytorch', 'nips-2017']",2,False,Python,True,False,False
+https://github.com/junyanz/BiCycleGAN,[NIPS 2017] Toward Multimodal Image-to-Image Translation,677,30,109,"['Python', 'Shell', 'TeX']","['pytorch', 'pix2pix', 'gans', 'generative-adversarial-network', 'deep-learning']",3,False,Python,True,False,False
+https://github.com/liqi-casia/DSDH-HashingCode,,12,1,6,['Matlab'],[],1,False,Matlab,False,False,False
+https://github.com/dsv77/hashembedding/,"Hash Embedding code for the paper ""Hash Embeddings for Efficient Word Representations""",21,2,11,['Python'],[],1,False,Python,True,False,False
 https://github.com/Dutil/PAG,"Plan, Attend, Generate: Planning for Sequence-to-Sequence Models",8,2,4,"['Python', 'Jupyter Notebook', 'Perl', 'Emacs Lisp', 'Shell', 'Smalltalk', 'Ruby', 'NewLisp', 'JavaScript', 'Slash']",[],10,False,Python,True,False,False
-https://github.com/code-terminator/DilatedRNN,Tensorflow implementation for DilatedRNN,260,17,38,"['Python', 'Jupyter Notebook']",[],2,False,Python,True,False,False
-https://github.com/rothk/Stabilizing_GANs,"Code for the NIPS17 paper ""Stabilizing Training of Generative Adversarial Networks through Regularization""",31,1,6,['Python'],[],1,False,Python,True,False,False
-https://github.com/PiotrDabkowski/pytorch-saliency,Real-time image saliency   🌠 (NIPS 2017),26,3,4,['Python'],[],1,False,Python,True,False,False
-https://github.com/jakesnell/prototypical-networks,"Code for the NIPS 2017 Paper ""Prototypical Networks for Few-shot Learning""",146,4,39,"['Python', 'Shell']","['few-shot', 'deep-learning', 'metric-learning', 'nips-2017', 'omniglot', 'pytorch']",2,False,Python,True,False,False
-https://github.com/eleniTriantafillou/few_shot_mAP_public,"This repository contains the code for the paper ""Few-Shot Learning Through an Information Retrieval Lens"". Eleni Triantafillou, Richard Zemel, Raquel Urtasun.",13,2,1,"['Python', 'Shell']",[],2,False,Python,True,False,False
-https://github.com/renmengye/revnet-public,"Code for ""The Reversible Residual Network: Backpropagation Without Storing Activations""",177,9,33,"['Python', 'Shell']",[],2,False,Python,True,False,False
-https://github.com/emalach/UpdateByDisagreement,"code for paper Decoupling ""when to update"" from ""how to update"" [https://arxiv.org/abs/1706.02613]",4,1,0,['Python'],[],1,False,Python,True,False,False
-https://github.com/fanyangxyz/Neural-LP,Differentiable Learning of Logical Rules for Knowledge Base Reasoning,34,3,5,"['Python', 'Shell']",[],2,False,Python,True,False,False
-https://github.com/tensorflow/lattice,Lattice methods in TensorFlow,310,29,47,"['Python', 'C++', 'Shell']",[],3,False,Python,True,False,False
-https://github.com/csyhhu/L-OBS,Codes for Layer-wise Optimal Brain Surgeon,24,4,6,['Python'],[],1,False,Python,True,False,False
-https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL,"A tutorial on ""Bayesian Compression for Deep Learning"" published at NIPS (2017).",106,1,27,['Python'],[],1,False,Python,True,False,False
-https://github.com/necludov/group-sparsity-sbp,"Structured Bayesian Pruning, NIPS 2017",42,8,9,"['Jupyter Notebook', 'Python']","['nips-2017', 'bayesian-deep-learning']",2,False,Jupyter Notebook,True,False,False
-http://github.com/thu-ml/pmd,Population matching discrepancy,2,2,3,"['Python', 'C++', 'Cuda', 'Shell', 'C']",[],5,False,Python,True,False,False
-https://github.com/paninski-lab/yass,YASS: Yet Another Spike Sorter,19,9,7,"['Python', 'Makefile', 'Shell']","['spike-sorting', 'computational-neuroscience', 'python']",3,False,Python,True,False,False
+https://github.com/code-terminator/DilatedRNN,Tensorflow implementation for DilatedRNN,266,17,38,"['Python', 'Jupyter Notebook']",[],2,False,Python,True,False,False
+https://github.com/rothk/Stabilizing_GANs,"Code for the NIPS17 paper ""Stabilizing Training of Generative Adversarial Networks through Regularization""",38,1,9,['Python'],[],1,False,Python,True,False,False
+http://github.com/anirudh9119/zforcing_nips17,"Z Forcing: Training Stochastic RNN's, NIPS'17",15,3,5,['Python'],[],1,False,Python,True,False,False
+https://github.com/PiotrDabkowski/pytorch-saliency,Real-time image saliency   🌠 (NIPS 2017),32,4,4,['Python'],[],1,False,Python,True,False,False
+https://github.com/jakesnell/prototypical-networks,"Code for the NIPS 2017 Paper ""Prototypical Networks for Few-shot Learning""",182,5,44,"['Python', 'Shell']","['few-shot', 'deep-learning', 'metric-learning', 'nips-2017', 'omniglot', 'pytorch']",2,False,Python,True,False,False
+https://github.com/eleniTriantafillou/few_shot_mAP_public,"This repository contains the code for the paper ""Few-Shot Learning Through an Information Retrieval Lens"". Eleni Triantafillou, Richard Zemel, Raquel Urtasun.",14,2,1,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/renmengye/revnet-public,"Code for ""The Reversible Residual Network: Backpropagation Without Storing Activations""",190,10,33,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/emalach/UpdateByDisagreement,"code for paper Decoupling ""when to update"" from ""how to update"" [https://arxiv.org/abs/1706.02613]",4,2,1,['Python'],[],1,False,Python,True,False,False
+https://github.com/fanyangxyz/Neural-LP,Differentiable Learning of Logical Rules for Knowledge Base Reasoning,44,3,5,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/tensorflow/lattice,Lattice methods in TensorFlow,317,29,49,"['Python', 'C++', 'Shell']",[],3,False,Python,True,False,False
+https://github.com/csyhhu/L-OBS,Codes for Layer-wise Optimal Brain Surgeon,24,5,5,['Python'],[],1,False,Python,True,False,False
+https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL,"A tutorial on ""Bayesian Compression for Deep Learning"" published at NIPS (2017).",111,1,30,['Python'],[],1,False,Python,True,False,False
+https://github.com/necludov/group-sparsity-sbp,"Structured Bayesian Pruning, NIPS 2017",42,9,10,"['Jupyter Notebook', 'Python']","['nips-2017', 'bayesian-deep-learning']",2,False,Jupyter Notebook,True,False,False
+http://github.com/thu-ml/pmd,Population matching discrepancy,3,2,3,"['Python', 'C++', 'Cuda', 'Shell', 'C']",[],5,False,Python,True,False,False
+https://github.com/paninski-lab/yass,YASS: Yet Another Spike Sorter,22,10,8,"['Python', 'Makefile', 'Shell']","['spike-sorting', 'computational-neuroscience', 'python']",3,False,Python,True,False,False
 https://github.com/david-klindt/NIPS2017,CNN Neural System Identification Model,16,4,3,"['Jupyter Notebook', 'Python', 'Shell']",[],3,False,Jupyter Notebook,True,False,False
-https://github.com/probtorch/probtorch,Probabilistic Torch is library for deep generative models that extends PyTorch,444,29,33,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/probtorch/probtorch,Probabilistic Torch is library for deep generative models that extends PyTorch,475,29,39,"['Python', 'Shell']",[],2,False,Python,True,False,False
 https://github.com/DPBayes/dca-nips2017,Differentially private learning on distributed data (NIPS 2017),4,4,0,"['Python', 'Scala', 'Shell']",[],3,False,Python,True,False,False
 https://github.com/rajatsen91/CCIT.git,Classifier Conditional Independence Test: A CI test that uses a binary classifier (XGBoost) for CI testing ,6,2,1,['Python'],[],1,False,Python,True,False,False
 https://github.com/pjang23/levy-spectral-kernel-learning,,2,2,0,"['Matlab', 'Fortran', 'HTML', 'C++', 'C', 'Makefile', 'M', 'CSS']",[],8,False,Matlab,False,False,False
-https://github.com/ermongroup/infogail,"Source code for our NIPS 2017 paper, InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations",13,5,4,"['C++', 'C', 'HTML', 'Batchfile', 'Makefile', 'Roff', 'TeX', 'Python', 'Shell', 'XSLT']",[],10,False,C++,True,False,False
-https://github.com/Maluuba/hra,Hybrid Reward Architecture,35,14,11,"['Python', 'Shell']","['rl', 'reinforcement-learning']",2,False,Python,True,False,False
-https://github.com/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL,"Official implementation for the paper: ""Shallow Updates for Deep Reinforcement Learning""",13,0,4,['Lua'],[],1,False,Lua,False,False,False
-https://github.com/shaneshixiang/rllabplusplus,,129,9,31,"['Python', 'Jupyter Notebook', 'JavaScript', 'HTML', 'Ruby', 'Shell', 'CSS', 'Mako']",[],8,False,Python,True,False,False
-https://github.com/locuslab/e2e-model-learning,Task-based end-to-end model learning,84,8,19,['Python'],"['machine-learning', 'deep-learning', 'optimization', 'stochastic-optimizers', 'pytorch', 'paper']",1,False,Python,True,False,False
-https://github.com/junhyukoh/value-prediction-network,NIPS 2017 Value Prediction Network,112,9,24,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/ermongroup/infogail,"Source code for our NIPS 2017 paper, InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations",15,5,5,"['C++', 'C', 'HTML', 'Batchfile', 'Makefile', 'Roff', 'TeX', 'Python', 'Shell', 'XSLT']",[],10,False,C++,True,False,False
+https://github.com/Maluuba/hra,Hybrid Reward Architecture,38,13,10,"['Python', 'Shell']","['rl', 'reinforcement-learning']",2,False,Python,True,False,False
+https://github.com/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL,"Official implementation for the paper: ""Shallow Updates for Deep Reinforcement Learning""",14,0,4,['Lua'],[],1,False,Lua,False,False,False
+https://github.com/shaneshixiang/rllabplusplus,,136,10,33,"['Python', 'Jupyter Notebook', 'JavaScript', 'HTML', 'Ruby', 'Shell', 'CSS', 'Mako']",[],8,False,Python,True,False,False
+https://github.com/locuslab/e2e-model-learning,Task-based end-to-end model learning in stochastic optimization,88,9,20,['Python'],"['machine-learning', 'deep-learning', 'optimization', 'stochastic-optimizers', 'pytorch', 'paper']",1,False,Python,True,False,False
+https://github.com/junhyukoh/value-prediction-network,NIPS 2017 Value Prediction Network,114,9,26,"['Python', 'Shell']",[],2,False,Python,True,False,False
 https://github.com/soumendu041/clustering-network-valued-data,,1,2,3,['Matlab'],[],1,False,Matlab,False,False,False
-https://github.com/tolstikhin/adagan,AdaGAN: greedy iterative procedure to train mixtures of GANs,56,2,13,['Python'],[],1,False,Python,True,False,False
+https://github.com/tolstikhin/adagan,AdaGAN: greedy iterative procedure to train mixtures of GANs,57,2,16,['Python'],[],1,False,Python,True,False,False
 https://github.com/wgao9/hypercontractivity,,1,1,0,"['R', 'Python']",[],2,False,R,True,False,True
-https://github.com/fanny-yang/MABFDR,"Code for the MAB-FDR framework introduced in ""A framework for Multi-A(rmed)/B(andit) Testing with Online FDR Control"", NIPS 2017",2,1,1,['Python'],[],1,False,Python,True,False,False
-https://github.com/yhjung88/OnlineBoostingWithVFDT,Online multiclass boosting algorithm that uses VFDT as weak learners,6,3,1,['Python'],[],1,False,Python,True,False,False
-https://github.com/CuriousAI/mean-teacher/,A state-of-the-art semi-supervised method for image recognition,301,36,71,"['Python', 'Shell']","['deep-learning', 'semi-supervised-learning', 'nips-2017', 'tensorflow', 'pytorch']",2,False,Python,True,False,False
-https://github.com/kiryor/nnPUlearning,Non-negative Positive-Unlabeled (nnPU) and unbiased Positive-Unlabeled (uPU) learning reproductive code on MNIST and CIFAR10,50,2,13,['Python'],"['pu-learning', 'nnpu-learning', 'mnist', 'cifar10', 'chainer']",1,False,Python,True,False,False
-https://github.com/talwagner/quadsketch,Implementation of QuadSketch algorithm,7,2,6,"['C++', 'Shell', 'Python', 'Makefile']",[],4,False,C++,True,False,False
-https://github.com/MahsaDerakhshan/AffinityClustering,,4,1,1,['Python'],[],1,False,Python,True,False,False
-https://github.com/idiap/zentas,Partitional data clustering around centers,5,3,2,"['C++', 'Python', 'CMake']",[],3,False,C++,True,False,False
+https://github.com/fanny-yang/MABFDR,"Code for the MAB-FDR framework introduced in ""A framework for Multi-A(rmed)/B(andit) Testing with Online FDR Control"", NIPS 2017",3,1,1,['Python'],[],1,False,Python,True,False,False
+https://github.com/yhjung88/OnlineBoostingWithVFDT,Online multiclass boosting algorithm that uses VFDT as weak learners,7,3,1,['Python'],[],1,False,Python,True,False,False
+https://github.com/CuriousAI/mean-teacher/,A state-of-the-art semi-supervised method for image recognition,347,39,90,"['Python', 'Shell']","['deep-learning', 'semi-supervised-learning', 'nips-2017', 'tensorflow', 'pytorch']",2,False,Python,True,False,False
+https://github.com/kiryor/nnPUlearning,Non-negative Positive-Unlabeled (nnPU) and unbiased Positive-Unlabeled (uPU) learning reproductive code on MNIST and CIFAR10,67,5,16,['Python'],"['pu-learning', 'nnpu-learning', 'mnist', 'cifar10', 'chainer']",1,False,Python,True,False,False
+https://github.com/talwagner/quadsketch,Implementation of QuadSketch algorithm,9,2,6,"['C++', 'Shell', 'Python', 'Makefile']",[],4,False,C++,True,False,False
+https://github.com/MahsaDerakhshan/AffinityClustering,,8,1,1,['Python'],[],1,False,Python,True,False,False
+https://github.com/idiap/zentas,Partitional data clustering around centers,5,3,3,"['C++', 'Python', 'CMake']",[],3,False,C++,True,False,False
 https://github.com/lipan00123/InHclustering,,1,0,2,"['Matlab', 'M']",[],2,False,Matlab,False,False,False
-https://github.com/SoheilFeizi/Tensor-Biclustering,,5,0,2,['Matlab'],[],1,False,Matlab,False,False,False
-https://github.com/slundberg/shap,A unified approach to explain the output of any machine learning model,1521,66,148,"['Jupyter Notebook', 'Python', 'C++', 'PowerShell', 'Batchfile']",[],5,False,Jupyter Notebook,True,False,False
+https://github.com/SoheilFeizi/Tensor-Biclustering,,6,0,2,['Matlab'],[],1,False,Matlab,False,False,False
+https://github.com/slundberg/shap,A unified approach to explain the output of any machine learning model.,1996,88,216,"['Jupyter Notebook', 'Python', 'JavaScript', 'C++', 'PowerShell', 'Batchfile', 'HTML']",[],7,False,Jupyter Notebook,True,False,False
 https://github.com/khetan2/Schatten_norm_estimation,It gives an estimate of k-Schatten norms of a partially observed symmetric matrix. ,1,0,1,['Matlab'],[],1,False,Matlab,False,False,False
-https://github.com/thetak11/learning-kis,Demo implementation of Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition,4,1,2,"['Matlab', 'Python']",[],2,False,Matlab,True,False,False
-https://github.com/wittawatj/kernel-gof,an interpretable linear-time kernel goodness-of-fit test,32,3,6,"['Python', 'Jupyter Notebook', 'Shell']","['machine-learning', 'kernel-methods', 'goodness-of-fit', 'statistical-tests', 'python']",3,False,Python,True,False,False
+https://github.com/thetak11/learning-kis,Demo implementation of Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition,5,1,3,"['Matlab', 'Python']",[],2,False,Matlab,True,False,False
+https://github.com/wittawatj/kernel-gof,an interpretable linear-time kernel goodness-of-fit test,35,3,6,"['Python', 'Jupyter Notebook', 'Shell', 'Dockerfile']","['machine-learning', 'kernel-methods', 'goodness-of-fit', 'statistical-tests', 'python']",4,False,Python,True,False,False
 https://github.com/sccfnad/Sparse-convolutional-coding-for-neuronal-assembly-detection,,4,0,0,['Python'],[],1,False,Python,True,False,False
 https://github.com/eleventh83/deepMiRGene,DeepMiRGene,3,1,1,['Python'],[],1,False,Python,True,False,False
-https://github.com/sammy-su/Spherical-Convolution,,9,2,3,['Python'],[],1,False,Python,True,False,False
-https://github.com/siavashBigdeli/DMSP,Deep Mean-Shift Priors for Image Restoration,17,1,5,"['Matlab', 'M']",[],2,False,Matlab,False,False,False
-https://github.com/sagiebenaim/DistanceGAN,"Pytorch implementation of ""One-Sided Unsupervised Domain Mapping""",110,7,20,"['Python', 'Shell']","['pytorch', 'gan', 'unsupervised-learning', 'image-generation', 'computer-vision']",2,False,Python,True,False,False
-https://github.com/doubledaibo/clcaption_nips2017,Contrastive Learning for Image Captioning,21,6,7,['Lua'],[],1,False,Lua,False,False,False
-https://github.com/shenwei1231/caffe-LDLForests,Code for LDLForests,13,3,8,"['C++', 'Python', 'Cuda', 'Protocol Buffer', 'Matlab', 'Makefile', 'Shell', 'M']",[],8,False,C++,True,False,False
-https://github.com/mariru/structured_embeddings,,29,2,6,['Python'],[],1,False,Python,True,False,False
-https://github.com/amujika/Fast-Slow-LSTM,,78,5,14,['Python'],[],1,False,Python,True,False,False
-https://github.com/sxjscience/HKO-7,"Source code of paper ""[NIPS2017] Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model""",84,12,35,"['Python', 'C++', 'C', 'Shell', 'CMake']",[],5,False,Python,True,False,False
-https://github.com/AdaCompNUS/qmdp-net,QMDP-Net implementation,24,19,9,['Python'],[],1,False,Python,True,False,False
-https://github.com/wnhsu/FactorizedHierarchicalVAE,"This repository contains the code to reproduce the core results from the paper ""Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data""",55,3,9,"['Python', 'Shell', 'Makefile']",[],3,False,Python,True,False,False
-https://github.com/akosiorek/hart,Hierarchical Attentive Recurrent Tracking,105,14,27,"['Python', 'Jupyter Notebook', 'Shell']","['neural-nets', 'object-tracking', 'attention-mechanism', 'rnn', 'tensorflow', 'kitti-dataset']",3,False,Python,True,False,False
+https://github.com/sammy-su/Spherical-Convolution,,13,3,4,['Python'],[],1,False,Python,True,False,False
+https://github.com/siavashBigdeli/DMSP,Deep Mean-Shift Priors for Image Restoration,20,1,5,"['Matlab', 'M']",[],2,False,Matlab,False,False,False
+https://github.com/sagiebenaim/DistanceGAN,"Pytorch implementation of ""One-Sided Unsupervised Domain Mapping"" NIPS 2017",124,9,20,"['Python', 'Shell']","['pytorch', 'gan', 'unsupervised-learning', 'image-generation', 'computer-vision', 'deep-learning', 'computer-vision-ai', 'image-manipulation']",2,False,Python,True,False,False
+https://github.com/doubledaibo/clcaption_nips2017,Contrastive Learning for Image Captioning,21,6,8,['Lua'],[],1,False,Lua,False,False,False
+https://github.com/shenwei1231/caffe-LDLForests,Code for LDLForests,14,3,7,"['C++', 'Python', 'Cuda', 'Protocol Buffer', 'Matlab', 'Makefile', 'Shell', 'M']",[],8,False,C++,True,False,False
+https://github.com/mariru/structured_embeddings,,31,3,8,['Python'],[],1,False,Python,True,False,False
+https://github.com/amujika/Fast-Slow-LSTM,,83,5,15,['Python'],[],1,False,Python,True,False,False
+https://github.com/sxjscience/HKO-7,"Source code of paper ""[NIPS2017] Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model""",111,15,51,"['Python', 'C++', 'C', 'Shell', 'CMake']",[],5,False,Python,True,False,False
+https://github.com/AdaCompNUS/qmdp-net,QMDP-Net implementation,27,19,10,['Python'],[],1,False,Python,True,False,False
+https://github.com/wnhsu/FactorizedHierarchicalVAE,"This repository contains the code to reproduce the core results from the paper ""Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data""",70,4,10,"['Python', 'Shell', 'Makefile']",[],3,False,Python,True,False,False
+https://github.com/akosiorek/hart,Hierarchical Attentive Recurrent Tracking,113,15,30,"['Python', 'Jupyter Notebook', 'Shell']","['neural-nets', 'object-tracking', 'attention-mechanism', 'rnn', 'tensorflow', 'kitti-dataset']",3,False,Python,True,False,False
 https://github.com/fxia22/NeuralFDR,"Software accompanying ""NeuralFDR: Learning Discovery Thresholds from Hypothesis Features""",5,3,5,['Python'],[],1,False,Python,True,False,False
-https://github.com/neulab/dynet-benchmark/tree/autobatch,Benchmarks for DyNet,52,14,12,"['Python', 'C++', 'Shell', 'Makefile']",[],4,False,Python,True,False,False
-https://github.com/wy1iu/SphereNet,Implementation for <Deep Hyperspherical Learning> in NIPS'17.,91,21,17,"['Python', 'Shell']","['hypersphereical-learning', 'neural-network', 'image-recognition', 'nips-2017', 'deep-learning']",2,False,Python,True,False,False
+https://github.com/neulab/dynet-benchmark/tree/autobatch,Benchmarks for DyNet,53,14,14,"['Python', 'C++', 'Shell', 'Makefile']",[],4,False,Python,True,False,False
+https://github.com/wy1iu/SphereNet,Implementation for <Deep Hyperspherical Learning> in NIPS'17.,97,20,17,"['Python', 'Shell']","['hypersphereical-learning', 'neural-network', 'image-recognition', 'nips-2017', 'deep-learning']",2,False,Python,True,False,False
 https://github.com/MinhyungCho/riemannian-batch-normalization,Riemannian approach to batch normalization,5,0,1,['Python'],[],1,False,Python,True,False,False
-https://github.com/bremen79/cocob,TensorFlow implementation of COCOB,40,5,5,['Python'],[],1,False,Python,True,False,False
+https://github.com/bremen79/cocob,TensorFlow implementation of COCOB,59,5,8,['Python'],[],1,False,Python,True,False,False
 https://github.com/SCSLabISU/CDSGD,Consensus Based Distributed Stochastic Gradient Descent,1,0,1,['Python'],[],1,False,Python,True,False,False
-https://github.com/wengong-jin/nips17-rexgen,Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network,33,6,5,['Python'],[],1,False,Python,True,False,False
-https://github.com/fmonti/mgcnn,Multi-Graph Convolutional Neural Networks,46,4,13,['Jupyter Notebook'],[],1,False,Jupyter Notebook,False,False,False
-https://github.com/lacerbi/bads,Bayesian Adaptive Direct Search (BADS) optimization algorithm for model fitting in MATLAB,74,6,11,"['Matlab', 'Fortran', 'HTML', 'C++', 'Mathematica', 'Makefile', 'C', 'CSS']","['optimization-algorithms', 'bayesian-optimization', 'log-likelihood', 'noiseless-functions', 'noisy-functions', 'matlab']",8,False,Matlab,False,False,False
-https://github.com/LucaAmbrogioni/GP-CaKe-project,Bayesian Effective Connectivity,26,2,4,"['Jupyter Notebook', 'Python']",[],2,False,Jupyter Notebook,True,False,False
+https://github.com/wengong-jin/nips17-rexgen,Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network,39,6,5,['Python'],[],1,False,Python,True,False,False
+https://github.com/fmonti/mgcnn,Multi-Graph Convolutional Neural Networks,61,4,17,['Jupyter Notebook'],[],1,False,Jupyter Notebook,False,False,False
+https://github.com/lacerbi/bads,Bayesian Adaptive Direct Search (BADS) optimization algorithm for model fitting in MATLAB,77,8,12,"['Matlab', 'Fortran', 'HTML', 'C++', 'Mathematica', 'Makefile', 'C', 'CSS']","['optimization-algorithms', 'bayesian-optimization', 'log-likelihood', 'noiseless-functions', 'noisy-functions', 'matlab']",8,False,Matlab,False,False,False
+https://github.com/LucaAmbrogioni/GP-CaKe-project,Bayesian Effective Connectivity,27,3,4,"['Jupyter Notebook', 'Python']",[],2,False,Jupyter Notebook,True,False,False
 http://github.com/arthurmensch/cogspaces,Leveraging multiple fMRI studies to predict cognitive states from brain maps.,6,1,5,['Python'],[],1,False,Python,True,False,False
 https://github.com/eelenberg/streak,Interpreting neural networks via the STREAK algorithm (streaming weak submodular maximization),14,3,3,"['Python', 'Jupyter Notebook']",[],2,False,Python,True,False,False
 https://github.com/locatelf/cone-greedy,,1,1,1,"['Matlab', 'C++', 'M', 'Python']",[],4,False,Matlab,True,False,False
 https://github.com/arunsais/Expxorcist.git,Non parametric graphical model,1,1,1,"['Matlab', 'R', 'Objective-C']",[],3,False,Matlab,False,False,True
-https://github.com/andymiller/ReducedVarianceReparamGradients,Reducing Reparameterization Gradient Variance code. ,21,5,1,"['Python', 'R']",[],2,False,Python,True,False,True
-https://github.com/probcomp/nips2017-aide-experiments,Experiments and figure generation for NIPS 2017 paper on AIDE,2,5,0,['Julia'],[],1,False,Julia,False,True,False
+https://github.com/andymiller/ReducedVarianceReparamGradients,Reducing Reparameterization Gradient Variance code. ,22,6,2,"['Python', 'R']",[],2,False,Python,True,False,True
+http://github.com/mstaib/stochastic-barycenter-code/,"Supporting code for ""Parallel Streaming Wasserstein Barycenters""",2,1,0,"['C++', 'Matlab', 'Makefile', 'Shell']",[],4,False,C++,False,False,False
+https://github.com/probcomp/nips2017-aide-experiments,Experiments and figure generation for NIPS 2017 paper on AIDE,2,4,0,['Julia'],[],1,False,Julia,False,True,False
 https://github.com/michaelhabeck/paths,Illustrating estimation of model evidences by nonequilibrium MCMC,1,1,1,"['Python', 'C']",[],2,False,Python,True,False,False
-https://github.com/thangbui/streaming_sparse_gp,Streaming sparse Gaussian process approximations,8,2,7,['Python'],[],1,False,Python,True,False,False
-https://github.com/wujian16/Cornell-MOE,"A Python library for the state-of-the-art parallel Bayesian optimization algorithms, with the core implemented in C++.",91,12,25,"['C++', 'Python', 'CMake', 'Shell', 'Ruby', 'Makefile']","['knowledge-gradient', 'expected-improvement', 'bayesian', 'bayesian-optimization', 'machine-learning', 'gaussian-processes', 'hyperparameter-optimization']",6,False,C++,True,False,False
-https://github.com/SheffieldML/GPy,Gaussian processes framework in python ,774,110,277,"['Python', 'C', 'C++', 'Batchfile', 'Shell']",[],5,False,Python,True,False,False
-https://github.com/kd383/GPML_SLD,Scalable Log Determinants for Gaussian Process Kernel Learning (https://arxiv.org/abs/1711.03481) (NIPS 2017),10,0,1,"['Matlab', 'Fortran', 'HTML', 'C++', 'C', 'Makefile', 'M', 'CSS']",[],8,False,Matlab,False,False,False
+https://github.com/thangbui/streaming_sparse_gp,Streaming sparse Gaussian process approximations,12,2,10,['Python'],[],1,False,Python,True,False,False
+https://github.com/wujian16/Cornell-MOE,"A Python library for the state-of-the-art parallel Bayesian optimization algorithms, with the core implemented in C++.",98,13,26,"['C++', 'Python', 'CMake', 'Shell', 'Ruby', 'Makefile']","['knowledge-gradient', 'expected-improvement', 'bayesian', 'bayesian-optimization', 'machine-learning', 'gaussian-processes', 'hyperparameter-optimization']",6,False,C++,True,False,False
+https://github.com/SheffieldML/GPy,Gaussian processes framework in python ,823,113,293,"['Python', 'C', 'C++', 'Batchfile', 'Shell']",[],5,False,Python,True,False,False
+https://github.com/kd383/GPML_SLD,Scalable Log Determinants for Gaussian Process Kernel Learning (https://arxiv.org/abs/1711.03481) (NIPS 2017),10,0,2,"['Matlab', 'Fortran', 'HTML', 'C++', 'C', 'Makefile', 'M', 'CSS']",[],8,False,Matlab,False,False,False
 https://github.com/carji475/linearly-constrained-gaussian-processes,,1,1,2,['Matlab'],[],1,False,Matlab,False,False,False
-https://github.com/befelix/safe_learning,Safe reinforcement learning with stability guarantees,19,2,11,"['Python', 'Shell', 'Makefile']","['reinforcement-learning', 'dynamic-programming', 'gaussian-processes', 'safety', 'stability']",3,False,Python,True,False,False
+https://github.com/befelix/safe_learning,Safe reinforcement learning with stability guarantees,29,3,13,"['Python', 'Shell', 'Makefile']","['reinforcement-learning', 'dynamic-programming', 'gaussian-processes', 'safety', 'stability']",3,False,Python,True,False,False
 https://github.com/martinroyer/pecok,"Code for the PECOK estimator of Bunea, Giraud, Royer, Verzelen ('17)",0,1,1,['Python'],[],1,False,Python,True,False,False
-https://github.com/DNNToolBox/Net-Trim-v1,Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee,50,2,23,['Python'],[],1,False,Python,True,False,False
-https://github.com/wgao9/mixed_KSG,,13,1,2,['Python'],[],1,False,Python,True,False,False
+https://github.com/DNNToolBox/Net-Trim-v1,Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee,50,2,22,['Python'],[],1,False,Python,True,False,False
+https://github.com/wgao9/mixed_KSG,,14,1,2,['Python'],[],1,False,Python,True,False,False
 https://github.com/omerbp/Best-Response-Regression,"A script for reproducing the experimental results from ""Best Response Regression"" paper.",0,1,0,['Python'],[],1,False,Python,True,False,False
-https://github.com/tensorflow/models/tree/master/research/pcl_rl,Models and examples built with TensorFlow,37630,2433,20388,"['Python', 'Jupyter Notebook', 'C++', 'HTML', 'Shell', 'JavaScript', 'Makefile', 'GLSL']",[],8,False,Python,True,False,False
+https://github.com/tensorflow/models/tree/master/research/pcl_rl,Models and examples built with TensorFlow,41047,2562,22816,"['Python', 'Jupyter Notebook', 'C++', 'HTML', 'Shell', 'JavaScript', 'Dockerfile', 'Makefile', 'GLSL']",[],9,False,Python,True,False,False
 https://github.com/albertometelli/crirl.git,,3,1,0,['Python'],[],1,False,Python,True,False,False
 https://github.com/T3p/adaptive-batch-size,Experiments on adaptive policy gradient,1,1,2,"['Python', 'Matlab']","['reinforcement-learning', 'policy-gradient', 'batch-size']",2,False,Python,True,False,False
-https://github.com/RonanFR/UCRL,,3,3,0,"['Python', 'Makefile']",[],2,False,Python,True,False,False
-https://github.com/aniketde/MultiTaskLearningContextualBandits,,1,3,1,"['Python', 'OpenEdge ABL']",[],2,False,Python,True,False,False
-https://github.com/sanjibac/matlab_learning_collision_checking,Code for learning collision checking policies using Bayesian active learning,2,0,2,"['Matlab', 'M']",[],2,False,Matlab,False,False,False
-http://github.com/dtak/hip-mdp-public,"Code for training and testing a Hidden Parameter Markov Decision Process, used to facilitate the transfer of learning",8,17,6,"['Python', 'Jupyter Notebook']","['reinforcement-learning', 'transfer-learning', 'bayesian-neural-networks', 'dqn']",2,False,Python,True,False,False
-https://github.com/JinseokNam/mlc2seq,,8,1,1,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/RonanFR/UCRL,,4,3,0,"['Python', 'Makefile']",[],2,False,Python,True,False,False
+https://github.com/aniketde/MultiTaskLearningContextualBandits,,2,3,1,"['Python', 'OpenEdge ABL']",[],2,False,Python,True,False,False
+https://github.com/sanjibac/matlab_learning_collision_checking,Code for learning collision checking policies using Bayesian active learning,3,0,3,"['Matlab', 'M']",[],2,False,Matlab,False,False,False
+http://github.com/dtak/hip-mdp-public,"Code for training and testing a Hidden Parameter Markov Decision Process, used to facilitate the transfer of learning",11,18,7,"['Python', 'Jupyter Notebook']","['reinforcement-learning', 'transfer-learning', 'bayesian-neural-networks', 'dqn']",2,False,Python,True,False,False
+https://github.com/JinseokNam/mlc2seq,,10,2,1,"['Python', 'Shell']",[],2,False,Python,True,False,False
 https://github.com/hehaodele/SBL-LSTM-Net,,4,1,2,"['Lua', 'Python']",[],2,False,Lua,True,False,False
-https://github.com/steven7woo/Accuracy-First-Differential-Privacy,Code for NIPS'2017 paper,10,2,8,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/steven7woo/Accuracy-First-Differential-Privacy,Code for NIPS'2017 paper,14,2,10,"['Python', 'Shell']",[],2,False,Python,True,False,False
 https://github.com/hayasick/CTFT,"Python code used in NIPS 2017 paper: Fitting Low-Rank Tensors in Constant Time, by K. Hayashi and Y. Yoshida ",1,1,2,['Python'],[],1,False,Python,True,False,False
-https://github.com/gpleiss/equalized_odds_and_calibration,"Code and data for the experiments in ""On Fairness and Calibration""",9,1,3,['Python'],[],1,False,Python,True,False,False
-https://github.com/HongtengXu/Hawkes-Process-Toolkit,A toolbox of Hawkes processes,19,1,14,['Matlab'],[],1,False,Matlab,False,False,False
-https://github.com/adith387/slates_semisynth_expts,Semi-synthetic experiments to test several approaches for off-policy evaluation and optimization of slate recommenders.,11,2,5,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/gpleiss/equalized_odds_and_calibration,"Code and data for the experiments in ""On Fairness and Calibration""",11,1,3,['Python'],[],1,False,Python,True,False,False
+https://github.com/HongtengXu/Hawkes-Process-Toolkit,A toolbox of Hawkes processes,20,1,15,['Matlab'],[],1,False,Matlab,False,False,False
+https://github.com/adith387/slates_semisynth_expts,Semi-synthetic experiments to test several approaches for off-policy evaluation and optimization of slate recommenders.,13,2,5,"['Python', 'Shell']",[],2,False,Python,True,False,False
 https://github.com/lefangcs/Expectation-Propagation-with-Stochastic-Kinetic-Model-in-Complex-Interaction-Systems,"This code repository is for the NIPS 2017 paper ""Expectation Propagation with Stochastic Kinetic Model in Complex Interaction Systems"". The authors are Le Fang, Fan Yang, Wen Dong, Tong Guan, and Chunming Qiao, working at Department of Computer Science and Engineering, University at Buffalo. ",1,1,1,['R'],[],1,False,R,False,False,True
-https://github.com/shentianxiao/language-style-transfer,,209,11,49,"['Roff', 'Python', 'Shell']",[],3,False,Roff,True,False,False
-https://github.com/facebookresearch/ELF,"An End-To-End, Lightweight and Flexible Platform for Game Research",1710,117,222,"['C++', 'Python', 'C', 'JavaScript', 'CMake', 'Shell', 'HTML']","['gaming', 'cpp', 'python', 'artificial-intelligence', 'deep-learning', 'neural-network', 'platform', 'reinforcement-learning']",7,False,C++,True,False,False
-https://github.com/locuslab/gradient_regularized_gan,"Code for ""Gradient descent GAN optimization is locally stable""",7,4,2,['Python'],[],1,False,Python,True,False,False
+https://github.com/shentianxiao/language-style-transfer,,244,11,59,"['Roff', 'Python', 'Shell']",[],3,False,Roff,True,False,False
+https://github.com/facebookresearch/ELF,"An End-To-End, Lightweight and Flexible Platform for Game Research",1755,122,229,"['C++', 'Python', 'C', 'JavaScript', 'CMake', 'Shell', 'HTML']","['gaming', 'cpp', 'python', 'artificial-intelligence', 'deep-learning', 'neural-network', 'platform', 'reinforcement-learning']",7,False,C++,True,False,False
+https://github.com/locuslab/gradient_regularized_gan,"Code for ""Gradient descent GAN optimization is locally stable""",9,4,2,['Python'],[],1,False,Python,True,False,False
 https://github.com/qulizhen/fgan_info_geometric,f-GANs in an Information Geometric Nutshell,8,2,5,['Python'],[],1,False,Python,True,False,False
-https://github.com/LMescheder/TheNumericsOfGANs,"This repository contains the code to reproduce the core results from the paper ""The Numerics of GANs"".",15,4,5,"['Python', 'Jupyter Notebook']",[],2,False,Python,True,False,False
-https://github.com/tomsercu/FisherGAN,Code accompanying the paper Fisher GAN: https://arxiv.org/abs/1705.09675,7,2,3,['Python'],"['ibm-research-ai', 'fisher-gan', 'gan']",1,False,Python,True,False,False
-https://github.com/glouppe/paper-learning-to-pivot,"Repository for the paper ""Learning to Pivot with Adversarial Networks""",15,4,11,"['Jupyter Notebook', 'TeX', 'Python', 'Makefile']",[],4,False,Jupyter Notebook,True,False,False
-https://github.com/igul222/improved_wgan_training,"Code for reproducing experiments in ""Improved Training of Wasserstein GANs""",1160,62,369,['Python'],[],1,False,Python,True,False,False
-https://github.com/OctoberChang/MMD-GAN,MMD-GAN: Towards Deeper Understanding of Moment Matching Network,67,1,16,"['Python', 'Shell']","['maximum-mean-discrepancy', 'generative-adversarial-network', 'pytorch', 'mmd-gan']",2,False,Python,True,False,False
-https://github.com/bioinf-jku/TTUR,Two time-scale update rule for training GANs,125,14,20,"['Jupyter Notebook', 'Python', 'Shell']",[],3,False,Jupyter Notebook,True,False,False
-https://github.com/kimiyoung/ssl_bad_gan,Good Semi-Supervised Learning That Requires a Bad GAN,92,4,18,['Python'],[],1,False,Python,True,False,False
-https://github.com/andrewgordonwilson/bayesgan,Tensorflow code for the Bayesian GAN (https://arxiv.org/abs/1705.09558) (NIPS 2017),886,54,128,"['Jupyter Notebook', 'Python']",[],2,False,Jupyter Notebook,True,False,False
-https://github.com/tund/D2GAN,Dual Discriminator Generative Adversarial Nets,14,1,6,['Python'],[],1,False,Python,True,False,False
-https://github.com/ChunyuanLI/ALICE,NIPS 2017: ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching,53,0,12,"['Jupyter Notebook', 'Python']","['generative-adversarial-network', 'bayesian-inference', 'entropy']",2,False,Jupyter Notebook,True,False,False
-https://github.com/zhenxuan00/triple-gan,Triple-GAN: a unified framework for classification and class-conditional generation in semi-supervised learing,123,10,35,['Python'],"['semi-supervised-learning', 'generative-adversarial-network', 'generative-model', 'gan']",1,False,Python,True,False,False
-https://github.com/LiqunChen0606/Triangle-GAN,implementation for NIPS paper Triangle Generative Adversarial Networks,45,4,8,['Python'],[],1,False,Python,True,False,False
-https://github.com/thudzj/StructuredGAN,SGAN: Structured Generative Adversarial Networks,17,2,8,['Python'],[],1,False,Python,True,False,False
-https://github.com/HazyResearch/tanda,Learning to Compose Domain-Specific Transformations for Data Augmentation,85,21,18,"['Python', 'Shell']",[],2,False,Python,True,False,False
-https://github.com/mingyuliutw/unit,Unsupervised Image-to-Image Translation,983,52,174,['Python'],"['gan', 'deep-learning', 'pix2pix', 'image-translation']",1,False,Python,True,False,False
-https://github.com/tensorflow/tensor2tensor,Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.,4352,297,1012,"['Python', 'Jupyter Notebook', 'JavaScript', 'HTML', 'Shell']","['machine-learning', 'machine-translation', 'deep-learning', 'reinforcement-learning', 'tpu']",5,False,Python,True,False,False
-https://github.com/gpapamak/maf,Masked Autoregressive Flow,25,4,8,['Python'],[],1,False,Python,True,False,False
-https://github.com/anirudh9119/walkback_nips17,"Variational Walkback, NIPS'17",19,2,7,"['Python', 'Shell']",[],2,False,Python,True,False,False
-https://github.com/wenwei202/terngrad,Ternary Gradients to Reduce Communication in Distributed Deep Learning (TensorFlow),101,8,24,"['Python', 'Shell', 'Jupyter Notebook']","['distributed-training', 'sgd', 'quantization', 'deep-learning', 'deep-neural-networks', 'data-parallelism']",3,False,Python,True,False,False
-https://github.com/cypw/DPNs,Dual Path Networks,386,29,122,"['Python', 'Shell']",[],2,False,Python,True,False,False
-https://github.com/eladhoffer/bigBatch,"Code used to generate the results appearing in ""Train longer, generalize better: closing the generalization gap in large batch training of neural networks""",93,2,17,"['Python', 'Shell']",[],2,False,Python,True,False,False
-https://github.com/openai/baselines,OpenAI Baselines: high-quality implementations of reinforcement learning algorithms,4539,363,1219,['Python'],[],1,False,Python,True,False,False
-https://github.com/Hanjun-Dai/graph_comb_opt,"Implementation of ""Learning Combinatorial Optimization Algorithms over Graphs""",73,13,26,"['C++', 'Python', 'Shell', 'C']",[],4,False,C++,True,False,False
+https://github.com/LMescheder/TheNumericsOfGANs,"This repository contains the code to reproduce the core results from the paper ""The Numerics of GANs"".",19,4,5,"['Python', 'Jupyter Notebook']",[],2,False,Python,True,False,False
+https://github.com/tomsercu/FisherGAN,Code accompanying the paper Fisher GAN: https://arxiv.org/abs/1705.09675,8,3,3,['Python'],"['ibm-research-ai', 'fisher-gan', 'gan']",1,False,Python,True,False,False
+https://github.com/glouppe/paper-learning-to-pivot,"Repository for the paper ""Learning to Pivot with Adversarial Networks""",19,4,12,"['Jupyter Notebook', 'TeX', 'Python', 'Makefile']",[],4,False,Jupyter Notebook,True,False,False
+https://github.com/igul222/improved_wgan_training,"Code for reproducing experiments in ""Improved Training of Wasserstein GANs""",1258,67,396,['Python'],[],1,False,Python,True,False,False
+https://github.com/OctoberChang/MMD-GAN,MMD-GAN: Towards Deeper Understanding of Moment Matching Network,71,1,17,"['Python', 'Shell']","['maximum-mean-discrepancy', 'generative-adversarial-network', 'pytorch', 'mmd-gan']",2,False,Python,True,False,False
+https://github.com/bioinf-jku/TTUR,Two time-scale update rule for training GANs,152,15,25,"['Jupyter Notebook', 'Python', 'Shell']",[],3,False,Jupyter Notebook,True,False,False
+https://github.com/kimiyoung/ssl_bad_gan,Good Semi-Supervised Learning That Requires a Bad GAN,107,4,23,['Python'],[],1,False,Python,True,False,False
+https://github.com/andrewgordonwilson/bayesgan,Tensorflow code for the Bayesian GAN (https://arxiv.org/abs/1705.09558) (NIPS 2017),923,54,138,"['Jupyter Notebook', 'Python']",[],2,False,Jupyter Notebook,True,False,False
+https://github.com/tund/D2GAN,Dual Discriminator Generative Adversarial Nets,17,1,7,['Python'],[],1,False,Python,True,False,False
+https://github.com/ChunyuanLI/ALICE,NIPS 2017: ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching,58,0,14,"['Jupyter Notebook', 'Python']","['generative-adversarial-network', 'bayesian-inference', 'entropy']",2,False,Jupyter Notebook,True,False,False
+https://github.com/zhenxuan00/triple-gan,Triple-GAN: a unified framework for classification and class-conditional generation in semi-supervised learing,130,10,41,['Python'],"['semi-supervised-learning', 'generative-adversarial-network', 'generative-model', 'gan']",1,False,Python,True,False,False
+https://github.com/LiqunChen0606/Triangle-GAN,implementation for NIPS paper Triangle Generative Adversarial Networks,47,4,9,['Python'],[],1,False,Python,True,False,False
+https://github.com/thudzj/StructuredGAN,SGAN: Structured Generative Adversarial Networks,17,3,9,['Python'],[],1,False,Python,True,False,False
+https://github.com/HazyResearch/tanda,Learning to Compose Domain-Specific Transformations for Data Augmentation,87,21,19,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/mingyuliutw/unit,Unsupervised Image-to-Image Translation,1058,55,191,"['Python', 'Shell', 'Dockerfile']","['gan', 'deep-learning', 'pix2pix', 'image-translation']",3,False,Python,True,False,False
+https://github.com/tensorflow/tensor2tensor,Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.,4932,334,1161,"['Python', 'Jupyter Notebook', 'JavaScript', 'HTML', 'Shell']","['machine-learning', 'machine-translation', 'deep-learning', 'reinforcement-learning', 'tpu']",5,False,Python,True,False,False
+https://github.com/gpapamak/maf,Masked Autoregressive Flow,33,5,9,['Python'],[],1,False,Python,True,False,False
+https://github.com/anirudh9119/walkback_nips17,"Variational Walkback, NIPS'17",21,2,7,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/wenwei202/terngrad,Ternary Gradients to Reduce Communication in Distributed Deep Learning (TensorFlow),104,9,28,"['Python', 'Shell', 'Jupyter Notebook']","['distributed-training', 'sgd', 'quantization', 'deep-learning', 'deep-neural-networks', 'data-parallelism']",3,False,Python,True,False,False
+https://github.com/cypw/DPNs,Dual Path Networks,408,31,127,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/eladhoffer/bigBatch,"Code used to generate the results appearing in ""Train longer, generalize better: closing the generalization gap in large batch training of neural networks""",97,4,17,"['Python', 'Shell']",[],2,False,Python,True,False,False
+https://github.com/openai/baselines,OpenAI Baselines: high-quality implementations of reinforcement learning algorithms,5240,390,1438,"['Python', 'HTML', 'Dockerfile']",[],3,False,Python,True,False,False
+https://github.com/Hanjun-Dai/graph_comb_opt,"Implementation of ""Learning Combinatorial Optimization Algorithms over Graphs""",81,13,28,"['C++', 'Python', 'Shell', 'C']",[],4,False,C++,True,False,False
 https://github.com/neuroailab/whisker_model,Codes for reproducing results in paper: https://arxiv.org/abs/1706.07555,3,3,2,"['C++', 'C', 'Objective-C', 'Python', 'C#', 'CMake', 'Lua', 'Objective-C++', 'Shell', 'GLSL']",[],10,False,C++,True,False,False
-https://github.com/edenton/drnet-py,,18,1,7,"['Python', 'Lua', 'Shell']",[],3,False,Python,True,False,False
+https://github.com/edenton/drnet-py,,27,1,8,"['Python', 'Lua', 'Shell']",[],3,False,Python,True,False,False
 https://github.com/fabianp/ProxASAGA,Proximal Asynchronous SAGA,9,1,5,"['C++', 'Python', 'Makefile']","['optimization', 'optimization-algorithms', 'machine-learning', 'python']",3,False,C++,True,False,False
-https://github.com/albietz/stochs,stochs: fast stochastic solvers for machine learning in C++ and Cython,22,2,5,"['C++', 'Python']",[],2,False,C++,True,False,False
-https://github.com/simonkamronn/kvae,Kalman Variational Auto-Encoder,33,3,9,['Python'],"['deep-learning', 'kalman-filter', 'neural-network', 'graphical-models', 'variational-inference', 'variational-autoencoder']",1,False,Python,True,False,False
-https://github.com/yaringal/ConcreteDropout,Code for Concrete Dropout as presented in https://arxiv.org/abs/1705.07832,90,6,27,['Jupyter Notebook'],[],1,False,Jupyter Notebook,False,False,False
-https://github.com/tensorflow/models/tree/master/research/rebar,Models and examples built with TensorFlow,37630,2433,20388,"['Python', 'Jupyter Notebook', 'C++', 'HTML', 'Shell', 'JavaScript', 'Makefile', 'GLSL']",[],8,False,Python,True,False,False
+https://github.com/albietz/stochs,stochs: fast stochastic solvers for machine learning in C++ and Cython,25,2,6,"['C++', 'Python']",[],2,False,C++,True,False,False
+https://github.com/simonkamronn/kvae,Kalman Variational Auto-Encoder,38,4,10,['Python'],"['deep-learning', 'kalman-filter', 'neural-network', 'graphical-models', 'variational-inference', 'variational-autoencoder']",1,False,Python,True,False,False
+https://github.com/yaringal/ConcreteDropout,Code for Concrete Dropout as presented in https://arxiv.org/abs/1705.07832,106,8,29,['Jupyter Notebook'],[],1,False,Jupyter Notebook,False,False,False
+https://github.com/tensorflow/models/tree/master/research/rebar,Models and examples built with TensorFlow,41047,2562,22816,"['Python', 'Jupyter Notebook', 'C++', 'HTML', 'Shell', 'JavaScript', 'Dockerfile', 'Makefile', 'GLSL']",[],9,False,Python,True,False,False
 https://github.com/geoffroeder/iwae,Code to train Importance Weighted Autoencoders on MNIST and OMNIGLOT,5,1,0,['Python'],[],1,False,Python,True,False,False
 https://github.com/yuhaow/sp-intervention,,1,1,1,"['R', 'Shell']",[],2,False,R,False,False,True
-https://github.com/AMLab-Amsterdam/CEVAE,Causal Effect Inference with Deep Latent-Variable Models,59,11,23,['Python'],[],1,False,Python,True,False,False
+https://github.com/AMLab-Amsterdam/CEVAE,Causal Effect Inference with Deep Latent-Variable Models,70,13,29,['Python'],[],1,False,Python,True,False,False
 https://github.com/moonfolk/Geometric-Topic-Modeling,Fast geometric algorithms for Topic Modeling,4,1,4,['Python'],[],1,False,Python,True,False,False
-https://github.com/ICL-SML/Doubly-Stochastic-DGP,Deep Gaussian Processes with Doubly Stochastic Variational Inference ,49,7,17,['Python'],[],1,False,Python,True,False,False
-https://github.com/markvdw/convgp/,Convolutional Gaussian processes based on GPflow.,56,6,17,"['Jupyter Notebook', 'Python']",[],2,False,Jupyter Notebook,True,False,False
-https://github.com/yiding2012/MKA,Multiresolution Kernel Approximation for Gaussian Process Regression,0,1,1,"['Matlab', 'C++']",[],2,False,Matlab,False,False,False
+https://github.com/ICL-SML/Doubly-Stochastic-DGP,Deep Gaussian Processes with Doubly Stochastic Variational Inference ,53,8,20,['Python'],[],1,False,Python,True,False,False
+https://github.com/markvdw/convgp/,Convolutional Gaussian processes based on GPflow.,58,7,18,"['Jupyter Notebook', 'Python']",[],2,False,Jupyter Notebook,True,False,False
 https://github.com/chrodan/FiniteEpisodicRL.jl,Reinforcement Learning Algorithms for Episodic MDPs With Finite SA-Spaces,3,1,1,"['Julia', 'Jupyter Notebook']",[],2,False,Julia,False,True,False
+http://github.com/openai/multiagent-particle-envs,,348,63,102,['Python'],[],1,False,Python,True,False,False
 https://github.com/aosokin/consistentSurrogates_derivations,,2,1,0,['Matlab'],[],1,False,Matlab,False,False,False
 https://github.com/linnylin92/fused_lasso,Functions to investigate the fused lasso,0,1,0,"['R', 'Shell']",[],2,False,R,False,False,True
 https://github.com/apanahi/NIPS_Paper_1937,"Codes for the paper ""A Universal Analysis of Large-Scale Regularized Least Squares Solutions""",0,0,0,"['M', 'Matlab']",[],2,False,M,False,False,False

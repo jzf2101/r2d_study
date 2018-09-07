@@ -20,8 +20,16 @@ def test_url(page_name):
     '''
     pings url of code to see if it woks
     '''
-    with suppress(Exception):
-        return requests.get(page_name).status_code == requests.codes.ok
+    if page_name[:8] != 'https://' and page_name[:7] != 'http://':
+        page_name = 'http://' + page_name
+    try:
+        r = requests.get(page_name)
+        r.raise_for_status()
+        return True
+    except UnicodeError:
+        return False
+    except requests.exceptions.RequestException as e:
+        return False
     
 gql_query = '{\
       repository(owner: "%s", name: "%s") {\
